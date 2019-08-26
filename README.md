@@ -11,6 +11,4 @@
 + file-upload
 + svg 验证码
 
-## 接口文档地址
 
-转到接口文档的详细地址： [B&G项目api文档](https://malun666.github.io/bjsfaserver/#/)
